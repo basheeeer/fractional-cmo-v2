@@ -105,7 +105,7 @@ const PrivacyPolicy = () => {
             Email: <a href="mailto:basheer@dsigns.com.au">basheer@dsigns.com.au</a>
           </p>
 
-          <h2>Changes to This Policy</h2>
+          <h2>Changes to This Policy : </h2>
           <p>
             We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the &quot;Last updated&quot; date.
           </p>
