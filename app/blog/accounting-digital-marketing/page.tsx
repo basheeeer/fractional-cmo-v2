@@ -138,7 +138,7 @@ const AccountingDigitalMarketing = () => {
                 <Monitor className="h-5 w-5 text-green-600" />
                 Website Excellence
               </CardTitle>
-              <CardDescription>Your digital storefront must build immediate trust</CardDescription>
+              <CardDescription>Your digital storefront must build immediate trust - </CardDescription>
             </CardHeader>
             <CardContent>
               <ul className="space-y-3 text-sm">
